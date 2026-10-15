@@ -4,6 +4,11 @@ Export your ChatGPT and Claude chats to **PDF, Word (DOCX) and Markdown** in one
 
 🔒 Private: your chats never leave your browser.
 
+## Screenshots
+
+![Screenshot 1](PASTE_1)
+![Screenshot 2](PASTE_2)
+![Screenshot 3](PASTE_3)
 ## Features
 - Export ChatGPT and Claude conversations
 - PDF, Word and Markdown formats
