@@ -15,7 +15,7 @@ Export your ChatGPT and Claude chats to **PDF, Word (DOCX) and Markdown** in one
 - Premium: unlimited exports, $12 lifetime
 
 ## Get it
-- Chrome Web Store: https://chromewebstore.google.com/detail/cddbknckmhiaeffmpoihglaahmedcece
+- Chrome Web Store:Install the free extension first: https://chromewebstore.google.com/detail/cddbknckmhiaeffmpoihglaahmedcece
 - Premium license: https://kifayat825.gumroad.com/l/zxbavc
 
 ## Privacy
